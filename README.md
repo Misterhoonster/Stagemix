@@ -69,4 +69,4 @@ mode or else the prefabs and scripts will be separated and you will
 have to manually reattach them.
 
 ## Video Demo
-https://youtu.be/3VNpGMGUEbQ
+https://youtu.be/wxGuwMRNWzU
